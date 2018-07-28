@@ -17,7 +17,7 @@ title: Coding Diaries
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Where Code Lives.
-baseurl: "codingDiaries" # the subpath of your site, e.g. /blog
+baseurl: "codingDiaries" #codingDiaries is the repo name. the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
